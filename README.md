@@ -1,4 +1,3 @@
-# casaos-install-in-china
 # CasaOS 国内安装脚本
 
 该项目提供针对中国大陆网络环境优化的 CasaOS 一键安装脚本，解决直接从 GitHub 下载速度慢或连接不稳定的问题。
